@@ -1,14 +1,24 @@
 Data logger for a one cylinder two stroke land speed race motorcycle 
 
+Circuit boards:
+Teensy 4.1 - Core processor board
+EGT breakout board - https://www.adafruit.com/product/1778
+GPS Module - GPS NEO-6M
+7 Segs - 8 Digit MAX7219 (SPI input)
+
+
+
 System design is based on Teensy 4.1 to log and display:
 RPM - Rotations per minute of the crankshaft
 EGT - Exhaust gas temperature
 MPH - Speed of the device
 
+
 Other I/O
-LEDs - 
+LEDs - Shift and other alarms
+Switches - 
 
 
-
+Debug stuff
 
 
