@@ -1,0 +1,2 @@
+test devices on the SPI bus. 
+GPS (if implemented)

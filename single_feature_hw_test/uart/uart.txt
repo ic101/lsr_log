@@ -1,0 +1,1 @@
+send test data to the 7 segments
