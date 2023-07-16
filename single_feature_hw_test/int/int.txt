@@ -1,0 +1,2 @@
+turn a hand crank... setup interrupt vector table... push data on edge change
+

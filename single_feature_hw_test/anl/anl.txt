@@ -1,1 +1,3 @@
 test the analog input for the EGT breakout board
+
+Teensy 4.1 Analog Input A8

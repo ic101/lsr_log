@@ -16,9 +16,8 @@ MPH - Speed of the device
 
 Other I/O
 LEDs - Shift and other alarms
-Switches - 
-
+Switches - four inputs 2 buttons 2 switches?
 
 Debug stuff
-
+Uart? Serial Monitor?
 
